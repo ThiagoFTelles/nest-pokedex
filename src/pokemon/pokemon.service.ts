@@ -32,7 +32,7 @@ export class PokemonService {
     return `This action returns all pokemon`
   }
 
-  findOne(id: number) {
+  findOne(id: string) {
     return `This action returns a #${id} pokemon`
   }
 
