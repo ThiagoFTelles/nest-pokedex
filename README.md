@@ -26,3 +26,4 @@ docker-compose up -d
  * TablePlus
  * Docker Desktop
  * Postman
+ * Paste JSON as Code
