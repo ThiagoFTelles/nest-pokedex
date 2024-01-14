@@ -19,3 +19,4 @@ export class SeedService {
     return data.results
   }
 }
+ 
