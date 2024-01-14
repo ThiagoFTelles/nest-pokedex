@@ -21,3 +21,8 @@ docker-compose up -d
 ## Stack
  * MongoDB
  * Nest
+
+## Tools
+ * TablePlus
+ * Docker Desktop
+ * Postman
