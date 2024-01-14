@@ -17,6 +17,10 @@ npm i -g @nestjs/cli
 ```
 docker-compose up -d
 ```
+5. Build the database with the seed
+```
+localhost:3000/api/v2/seed
+```
 
 ## Stack
  * MongoDB
