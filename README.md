@@ -38,3 +38,5 @@ localhost:3000/api/v2/seed
  * TablePlus
  * Docker Desktop
  * Postman
+ * MongoDBCompass
+ * Railway.app
